@@ -18,7 +18,7 @@ autoencoder = load_model('AE_same_with_NN.h5')
  CNN_same_input_with_NN.m (training time: less than 4min)/Rong_process_NN_2.m 
  NN.py 
 ```
-Case 4:
+### Case 4:
 ```
 Data_process_3_noise_new_1.m
 NN_1000_62432.m (or load the trained NN: net500.mat) 
