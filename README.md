@@ -23,7 +23,6 @@ autoencoder = load_model('AE_same_with_NN.h5')
 Data_process_3_noise_new_1.m
 NN_1000_62432.m (or load the trained NN: net500.mat) 
 accuracy_10_percent.m 
-Data_process_3_noise_new_1.m 
 CNN_3.m 
 Increase_robustness.py 
 ```
